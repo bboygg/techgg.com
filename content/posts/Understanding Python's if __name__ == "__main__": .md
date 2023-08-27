@@ -1,5 +1,5 @@
 ---
-title: Understanding Python's if __name__ == "__main__":
+title: "Understanding Python's if __name__ == __main__"
 date: '2023-08-27'
 ---
 
