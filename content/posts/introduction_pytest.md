@@ -1,15 +1,16 @@
 ---
 title: "Introduction to pytest"
 date: 2023-09-03T16:17:17+09:00
+draft: False
 ---
-## Overview
+## Introduction
 This blog post aims to provide a comprehensive introduction to `pytest`, one of the most popular testing frameworks in Python. We'll explore what `pytest` is, how to install it, a simple example to kick things off, and finally, how to organize your test code.
 
 
 ## what is pytest? 
 `pytest` is a testing framework in Python that allows for simple unit tests as well as complex functional testing. It is a feature-rich, plugin-based ecosystem for testing your Python code.
 
-Official Documentation: [pytest]((https://docs.pytest.org/en/7.1.x/getting-started.html))
+Official Documentation: [pytest](https://docs.pytest.org/en/7.1.x/getting-started.html)
 
 
 ## Installation
