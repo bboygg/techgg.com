@@ -2,10 +2,7 @@
 title: "Understanding Python's if __name__ == __main__"
 date: '2023-08-27'
 ---
-
-# Understanding Python's `if __name__ == "__main__"`
-
-## Introduction
+## Overview
 Understanding the `if __name__ == "__main__":` statement in Python can be confusing for beginners. This article aims to simplify this concept and demonstrate its usefulness, especially for unit testing.
 
 ## What does `if __name__ == "__main__":` Mean?

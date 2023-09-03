@@ -2,9 +2,6 @@
 title: "Introduction to pytest"
 date: 2023-09-03T16:17:17+09:00
 ---
-
-# Introduction to pytest
-
 ## Overview
 This blog post aims to provide a comprehensive introduction to `pytest`, one of the most popular testing frameworks in Python. We'll explore what `pytest` is, how to install it, a simple example to kick things off, and finally, how to organize your test code.
 
