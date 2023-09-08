@@ -52,7 +52,7 @@ import sys
 print("All Arguments except script name:", sys.argv[1:])
 ```
 
-If you run `python `example.py arg1 arg2 arg3`, the output will be:
+If you run `python example.py arg1 arg2 arg3`, the output will be:
 
 ```python
 All Arguments except script name: ['arg1', 'arg2', 'arg3']
