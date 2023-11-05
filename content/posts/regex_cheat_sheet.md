@@ -71,7 +71,7 @@ draft: False
 
 
 ## Referecnes
-https://cs50.harvard.edu/python/2022/notes/7/
+https://cs50.harvard.edu/python/2022/notes/7/ <br>
 https://www.geeksforgeeks.org/python-regex-cheat-sheet/
 
 
